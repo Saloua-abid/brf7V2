@@ -1,0 +1,101 @@
+
+.inpt {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+    }
+    
+    body {
+        background-image: url(image.jpg);
+        background-size: cover;
+    }
+    
+    #inp1 {
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    width: 310px;
+    border: solid black;
+    }
+    
+    #inp2 {
+      margin-top: 5px;
+      padding-top: 10px;
+      padding-bottom: 5px;
+      border-radius: 10px;
+      width: 310px;
+      border: solid black;
+      }
+    
+      #inp3 {
+        margin-top: 5px;
+        padding-top: 10px;
+        padding-bottom: 5px;
+        border-radius: 10px;
+        width: 310px;
+        border: solid black;
+        }
+    
+        #inp4 {
+          margin-top: 5px;
+          padding-top: 10px;
+          padding-bottom: 5px;
+          border-radius: 10px;
+          width: 310px;
+          border: solid black;
+          }
+    
+          #inp5 {
+            margin-top: 5px;
+            padding-top: 10px;
+            padding-bottom: 5px;
+            border-radius: 10px;
+            width: 310px;
+            border: solid black;
+            }
+    
+            #inp6 {
+              margin-top: 5px;
+              padding-top: 10px;
+              padding-bottom: 5px;
+              border-radius: 10px;
+              width: 310px;
+              border: solid black;
+              }
+
+              #inp7 {
+                margin-top: 5px;
+                padding-top: 10px;
+                padding-bottom: 5px;
+                border-radius: 10px;
+                width: 310px;
+                border: solid black;
+                }
+    
+    #btn {
+        width: 5%;  
+    }
+    
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;   /* bach kijiw les colum lasqin*/
+       width: 100%;
+      }
+     
+    th {
+        border: 1px solid #000000;
+        padding: 8px;
+      }
+    
+    
+    #tbl {
+      margin-top: 70px;
+      color: white;
+      background-color: black;
+    }
+     
+    
+    
